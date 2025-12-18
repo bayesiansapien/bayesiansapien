@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amit — Bayesian@Sapien
+# 👋 Hi, I'm Amit — BayesianSapien
 
 > *A Minimalist Bayesian Sapien contributing to the universe's entropy*
 

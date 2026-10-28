@@ -20,7 +20,7 @@ Senior AI Researcher at **Quantiphi Analytics** specializing in LLM routing syst
 
 I regularly share insights on AI research, routing systems, and machine learning:
 
-- 🌐 [Personal Website](https://bayesiansapien.tech/)
+- 🌐 [Personal Website](https://bayesiansapien.com/)
 - 📝 [Substack](https://substack.com/@bayesiansapien)
 - ✍️ [Medium](https://medium.com/@amit02093)
 - 𝕏 [X/Twitter](https://x.com/bayesiansapien)
